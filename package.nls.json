@@ -51,7 +51,7 @@
     "chatgpt.gpt3.organization.markdownDescription": "OpenAI Organization ID. [Documentation](https://beta.openai.com/docs/api-reference/requesting-organization). \n\n**Please enable OpenAI API Key method to use this setting.**",
     "chatgpt.gpt3.model.markdownDescription": "OpenAI models to use for your prompts. [Documentation](https://beta.openai.com/docs/models/models). \n\n**If you face 400 Bad Request please make sure you are using the right model for your integration method.**",
     "chatgpt.gpt3.model.enumItemLabels1": "Browser autologin - default ChatGPT model",
-    "chatgpt.gpt3.model.enumItemLabels2": "Browser autologin - ChatGPT Plus GPT-4",
+    "chatgpt.gpt3.model.enumItemLabels2": "OpenAI API Key - ChatGPT Plus GPT-4",
     "chatgpt.gpt3.model.enumItemLabels3": "Browser autologin - ChatGPT Plus default model",
     "chatgpt.gpt3.model.enumItemLabels4": "Browser autologin - ChatGPT Plus legacy model",
     "chatgpt.gpt3.model.enumItemLabels5": "OpenAI API Key - gpt-3.5-turbo",

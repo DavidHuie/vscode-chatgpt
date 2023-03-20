@@ -438,6 +438,7 @@
           "order": 33,
           "enumItemLabels": [
             "Browser autologin - default ChatGPT model",
+            "OpenAI API Key - gpt-4",
             "Browser autologin - ChatGPT Plus GPT-4",
             "Browser autologin - ChatGPT Plus default model",
             "Browser autologin - ChatGPT Plus legacy model",
@@ -540,7 +541,8 @@
     "quick-lru": "^6.1.1",
     "remark": "^14.0.2",
     "strip-markdown": "^5.0.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "yarn": "^1.22.19"
   },
   "resolutions": {
     "clone-deep": "^4.0.1"
