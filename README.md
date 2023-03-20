@@ -1,7 +1,9 @@
 # vscode-chatgpt
 
-This is a fork of the original version that enables local vsix builds, and API
+This is a fork of the original version that enables local vsix builds and API
 usage of GPT4.
+
+Tons of props to @gencay for originally shipping the project!
 
 # How to run
 
